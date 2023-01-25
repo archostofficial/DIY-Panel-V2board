@@ -1,6 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/56885001?s=200&v=4" alt="logo" width="130" height="130" align="right"/>
+<img src="https://archost.com/wp-content/uploads/2022/12/Icon-blue-512x512-1.png" alt="logo" width="130" height="130" align="right"/>
 
-# **V2Board**
+# ** DIY Panel V2Board **
 
 - PHP7.3+
 - Composer
@@ -8,17 +8,15 @@
 - Redis
 - Laravel
 
-## Demo
-[Demo](https://demo.v2board.com)
+## Web Site
+[Click](https://archost.com)
 
 ## Document
-[Click](https://v2board.com)
+[Click](https://archost.com)
 
-## Sponsors
-Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
 
 ## Community
-🔔Telegram Channel: [@v2board](https://t.me/v2board)  
+🔔Telegram Channel: [@archostofficial](https://t.me/archostofficial)  
 
 ## How to Feedback
 Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
