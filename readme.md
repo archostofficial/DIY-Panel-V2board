@@ -8,11 +8,11 @@
 - Redis
 - Laravel
 
-## Web Site
-[Click](https://archost.com)
+## One Click install product
+[Setup Now](https://my.archost.com/store/diy-vpn/diy-panel)
 
 ## Document
-[Click](https://archost.com)
+[Click](https://my.archost.com/knowledgebase/7010/DIY-V2board-Panel)
 
 
 ## Community
